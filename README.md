@@ -23,3 +23,7 @@ The program accepts up to 2 arguments:
 Note that you cant have an output file without input because i dont think theres an easy way to properly parse arguments in uiua so input is just the first arg and output is the second
 
 Also you have to be in the uiuascii folder when running it because it cant find the resources folder otherwise
+
+# BAD APPLE
+https://www.youtube.com/watch?v=fD3MQzcSHtk
+(a bit broken by youtube compression)
